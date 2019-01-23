@@ -6,7 +6,7 @@ Git adalah salah satu VCS (Version Control Sistem) yg diciptakan Linus Torvalds,
 * Langkah pertama yaitu mendownload aplikasi git di pada situs resmi [git](https://git-scm.com/) sesuai dengan versi windows anda
 
 ## Pengecekan git version
-* untuk mengecek versi git yang terinstal pada komputer anda silahkan buka cmd, kemudian tuliskan `git --version-
+* untuk mengecek versi git yang terinstal pada komputer anda silahkan buka cmd, kemudian tuliskan `git --version`
 
 
 ![github](https://github.com/Marinska/latihan-1/blob/master/1.PNG)
