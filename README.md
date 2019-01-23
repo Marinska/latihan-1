@@ -9,7 +9,7 @@ Git adalah salah satu VCS (Version Control Sistem) yg diciptakan Linus Torvalds,
 * untuk mengecek versi git yang terinstal pada komputer anda silahkan buka cmd, kemudian tuliskan `git --version-
 
 
-![github](https://github.com/marinska/latihan-1/blob/master/1.png)
+![github](https://github.com/Marinska/latihan-1/blob/master/1.png)
 
 ## Menambah Global Config
 * untuk penggunaan perdana, kita perlu mengkonfigurasi user.name dan user.email terlebih dahulu
@@ -34,7 +34,7 @@ Git adalah salah satu VCS (Version Control Sistem) yg diciptakan Linus Torvalds,
 * kemudian masuk kedalam directory tsb, dengan perintah
 `cd latihan-1`
 
-![github](https://github.com/marinska/latihan-1/blob/master/2.png)
+![github](https://github.com/Marinska/latihan-1/blob/master/2.png)
 
 
 ## Membuat repository local
@@ -42,43 +42,43 @@ Git adalah salah satu VCS (Version Control Sistem) yg diciptakan Linus Torvalds,
 * maka repository baru berhasil di inisialisasi, dengan adanya folder baru di direktory hidden dengan nama **.git**
 * semua perubahan akan disimpan di directory tersebut.
 
-![github](https://github.com/marinska/latihan-1/blob/master/3.png)
+![github](https://github.com/Marinska/latihan-1/blob/master/3.png)
 
 ## Menambah file baru
 * buat file dengan nama readme.md pada directory repository 
 `echo "#latihan-1" >> readme.md`
 
-![github](https://github.com/marinska/latihan-1/blob/master/4.png)
+![github](https://github.com/Marinska/latihan-1/blob/master/4.png)
 
 * tambahkan file readme.md kedalam berkas repo
 `git add readme.md`
 * cek status repository, masukan perintah
  `git status`
  
-![github](https://github.com/marinska/latihan-1/blob/master/5.png)
+![github](https://github.com/Marinska/latihan-1/blob/master/5.png)
 
 ## Menyimpan perubahan ke database server repo
  * untuk menyimpan perubahan ke repositorylokal, gunakan perintah
   `git commit -m "file utama"`
   
-  ![github](https://github.com/marinska/latihan-1/blob/master/6.png)  
+  ![github](https://github.com/Marinska/latihan-1/blob/master/6.png)  
   
 ## Membuat repository server pada web github
 * pada laman **github**, silahkan login dengan id masing-masing
 * pada pojok kanan atas, pilih tombol + untuk membuat repository baru
 
-![github](https://github.com/marinska/latihan-1/blob/master/7.png)
+![github](https://github.com/Marinska/latihan-1/blob/master/7.png)
 
 * isikan nama repository, lalu klik tombol **create repository**
 
-![github](https://github.com/marinska/latihan-1/blob/master/8.png)
+![github](https://github.com/Marinska/latihan-1/blob/master/8.png)
 
 
 ## Remote repository
 * untuk menambah remote repository, masukan perintah : 
 `git remote add origin [url]`
 
-![github](https://github.com/marinska/latihan-1/blob/master/9.png)
+![github](https://github.com/Marinska/latihan-1/blob/master/9.png)
 
 ## Push directory (mengirim perubahan keserver)
 * untuk mengirim perubahan dengan push, masukan perintah
@@ -86,16 +86,16 @@ Git adalah salah satu VCS (Version Control Sistem) yg diciptakan Linus Torvalds,
 * biasanya, akan dimintai keterangan identitas id
 * silahkan masukan username dan password **github**
 
-![github](https://github.com/marinska/latihan-1/blob/master/10.png)
-![github](https://github.com/marinska/latihan-1/blob/master/11.png)
+![github](https://github.com/Marinska/latihan-1/blob/master/10.png)
+![github](https://github.com/Marinska/latihan-1/blob/master/11.png)
 
 ## Melihat hasil repository pada web
 * hasilnya dapat dilihat di repository **github** yang telah kita buat.
-![github](https://github.com/marinska/latihan-1/blob/master/12.png)
+![github](https://github.com/Marinska/latihan-1/blob/master/12.png)
 
 ## Clone repository
 * clone repository yaitu mengcopy sebuah repository yang sudah ada
 * untuk mengcloning sebuah repository, silahkan masukan perintah
-![github](https://github.com/marinska/latihan-1/blob/master/13.png)
+![github](https://github.com/Marinska/latihan-1/blob/master/13.png)
 
 # Terima Kasih
