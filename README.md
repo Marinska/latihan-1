@@ -19,12 +19,12 @@ Git adalah salah satu VCS (Version Control Sistem) yg diciptakan Linus Torvalds,
  `git config --global user.email "akun-user"`
 
 ## Perintah dasar pada Git
-* **git init, untuk membuat repo local
-* **git add, menambah file baru
-* **git commit, menyimpan pembaharuan data pada git 
-* **git push -u origin master, mengirim perubahan pada repository
-* **git clone [url], untuk mengcopy repository
-* **git remote add origin [url], untuk menambah remote repository server
+* **git init**, untuk membuat repo local
+* **git add**, menambah file baru
+* **git commit**, menyimpan pembaharuan data pada git 
+* **git push -u origin master**, mengirim perubahan pada repository
+* **git clone [url]**, untuk mengcopy repository
+* **git remote add origin [url]**, untuk menambah remote repository server
 
 ## Membuat repository lokal
 * buka directory aktif, contoh c:\users\documents\github.
@@ -59,7 +59,7 @@ Git adalah salah satu VCS (Version Control Sistem) yg diciptakan Linus Torvalds,
 
 ## Menyimpan perubahan ke database server repo
  * untuk menyimpan perubahan ke repositorylokal, gunakan perintah
-  `git commit -m "file utama"`
+  `git commit -m "comment"`
   
   ![github](https://github.com/Marinska/latihan-1/blob/master/6.PNG)  
   
@@ -99,3 +99,6 @@ Git adalah salah satu VCS (Version Control Sistem) yg diciptakan Linus Torvalds,
 ![github](https://github.com/Marinska/latihan-1/blob/master/13.PNG)
 
 # Terima Kasih
+Nama : Umar Ibnu Zainal Muttaqin
+Kelas : TI.18.B.2
+NIM : 311810909
